@@ -45,8 +45,8 @@ INSERT IGNORE INTO voters (voter_id, full_name, dob, province, mobile) VALUES
 ('NPL-234567', 'Karan Chaudhary', '2005-02-02', 'Gandaki Province', '9800000002'),
 ('NPL-345678', 'Om Chaudhary', '2005-03-03', 'Lumbini Province', '9800000003'),
 ('NPL-456789', 'Brisav Singh', '2005-04-04', 'Koshi Province', '9880000004'),
-('NPL-567890', 'Risab', '1992-07-18', 'Madhesh Province', '9880000005'),
-('NPL-678901', 'Bikash Adhikari', '1992-07-18', 'Madhesh Province', '9800000006');
+('NPL-567890', 'Risab Giri', '2004-05-05', 'Madhesh Province', '9880000005'),
+('NPL-678901', 'Aditya Shrestha', '2004-06-06', 'Madhesh Province', '9800000006');
 
 -- Seed parties
 INSERT IGNORE INTO parties (code, name_en, name_np, symbol, color, abbr) VALUES
